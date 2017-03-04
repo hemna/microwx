@@ -12,7 +12,8 @@ What you need
 -------------
 * NodeMCU v 1.0 
   https://www.amazon.com/gp/product/B010O1G1ES
-  You can see the PINOUT here:
+
+* You can see the NodeMCU pinout here:
   https://iotbytes.wordpress.com/nodemcu-pinout
 
 * OLED I2C board.  I used
